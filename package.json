@@ -1,0 +1,45 @@
+{
+ 
+ 
+  "name": "cinehouse",
+ 
+ 
+  "version": "1.0.0",
+ 
+ 
+  "main": "cinema.js",
+ 
+ 
+  "scripts": {
+ 
+ 
+   
+ 
+  "test": "echo \"Error: no test specified\" && exit 1"
+ 
+ 
+  },
+ 
+ 
+  "author": "Talita",
+ 
+ 
+  "license": "ISC",
+ 
+ 
+  "keywords": [],
+ 
+ 
+  "description": "Aplicacao de cinema",
+ 
+ 
+  "dependencies": {
+ 
+ 
+   
+ 
+  "nodemon": "^2.0.20"
+ 
+ 
+  }
+}
